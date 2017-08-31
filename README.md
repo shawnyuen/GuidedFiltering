@@ -15,6 +15,9 @@ Please install Anaconda3 4.2.0.
 python example_feathering.py
 ```
 
+### Results
+Some differences will appear, because of the **inv** method is different between MATLAB and Numpy.
+
 ### Acknowledge
 Heavily borrowed from this project [[pfcai]](https://github.com/pfchai/GuidedFilter).
 However, the above only implements **guidedfilter** and doesn't implement **guidedfilter_color**.
